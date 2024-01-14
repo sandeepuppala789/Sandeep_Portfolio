@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm a versatile full-stack Java developer at Franchise Tax Board. /With a passion for crafting seamless and efficient software solutions, I thrive on the challenges that come with both front-end and back-end development.
+            I'm a versatile full-stack Java developer at Franchise Tax Board. With a passion for crafting seamless and efficient software solutions, I thrive on the challenges that come with both front-end and back-end development.
               <br />
               <br />I am fluent in classics like
               <i>
