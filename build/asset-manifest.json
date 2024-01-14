@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sandeep_Portfolio/static/css/main.0f536a65.css",
+    "main.js": "/Sandeep_Portfolio/static/js/main.ea8327b7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Sandeep_Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Sandeep_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume_Sandeep.pdf": "/Sandeep_Portfolio/static/media/Resume_Sandeep.e6ed6849c29283d7dced.pdf",
+    "static/media/home-main.svg": "/Sandeep_Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Sandeep_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Sandeep_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Sandeep_Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Sandeep_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Sandeep_Portfolio/index.html",
+    "main.0f536a65.css.map": "/Sandeep_Portfolio/static/css/main.0f536a65.css.map",
+    "main.ea8327b7.js.map": "/Sandeep_Portfolio/static/js/main.ea8327b7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Sandeep_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Sandeep_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f536a65.css",
+    "static/js/main.ea8327b7.js"
+  ]
+}
